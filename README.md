@@ -4,12 +4,14 @@
 
 Find people to build with, startup communities to join, places to work, and a base for your stay—with English-language information and entry requirements explained.
 
-Tokyo Metropolis only. For communities with wider coverage, this guide recommends their **Tokyo activities only**. Official web sources checked **2026-09-24**; this is a researched shortlist, not a record of personal visits. Event schedules, admission, and availability can change.
+Physical recommendations are within Tokyo Metropolis only. Online communities are included as ways to find Tokyo peers and events, and are labeled separately. For communities with wider coverage, check that any in-person event is in **Tokyo**. Official web sources checked **2026-09-24**; this is a researched shortlist, not a record of personal visits. Event schedules, admission, and availability can change.
 
 ## Contents
 
 - [Your first week in Tokyo](#your-first-week-in-tokyo)
+- [Choose your neighborhood](#choose-your-neighborhood)
 - [Meet developers and founders](#meet-developers-and-founders)
+- [If you speak Japanese](#if-you-speak-japanese)
 - [Startup hubs and coworking](#startup-hubs-and-coworking)
 - [Cafes and places to work](#cafes-and-places-to-work)
 - [Where to stay](#where-to-stay)
@@ -28,6 +30,16 @@ For a short visit, book one technical meetup and one founder event before fillin
 
 **How to read access information:** *English* means the organizer explicitly describes an English-speaking community. *Mixed / event-specific* means you must inspect the session language. *English information* means an English official page exists; it does not guarantee English-speaking staff. RSVP, membership, and booking are separate requirements.
 
+## Choose your neighborhood
+
+| Area | Start with | Work / coffee | Stay |
+| --- | --- | --- | --- |
+| **[Marunouchi / Yurakucho](docs/neighborhoods.md#marunouchi-and-yurakucho)** | TIB for startup events; Startup Hub Tokyo for early founder support; EGG by invitation. | Startup Hub Tokyo lounge for startup work, after registration. | THE GATE HOTEL TOKYO; lyf Ginza Tokyo in nearby Kyobashi. |
+| **[Shibuya](docs/neighborhoods.md#shibuya)** | Shibuya Startup Support events; SHIBUYA QWS for projects and events. | SHARE LOUNGE at the station; .andwork in Jinnan; FabCafe in Dogenzaka; Fuglen in Tomigaya. | HOTEL GRAPHY SHIBUYA. |
+| **[Toranomon / Shimbashi](docs/neighborhoods.md#toranomon-and-shimbashi)** | Venture Café for a registered gathering; CIC for ongoing workspace membership. | BasisPoint near Shimbashi Station. | Hotel Toranomon Hills. |
+
+The **[neighborhood guide](docs/neighborhoods.md)** includes building names, entry details, language notes, and suggested ways to combine work with an event. These are planning suggestions; no neighborhood guarantees chance encounters with developers.
+
 ## Meet developers and founders
 
 These are communities, not permanently open public offices. Venues and ticket rules depend on the event.
@@ -39,6 +51,23 @@ These are communities, not permanently open public offices. Venues and ticket ru
 | [Tokyo AI](https://www.tokyoai.jp/) | Connect with AI engineers, researchers, and founders. | Events in English and Japanese; session-specific. | Follow the official event links and RSVP. Venue, screening, and price depend on the event. |
 | [Tokyo Linux Users Group](https://www.tlug.jp/) | Linux and free-software talks and social meetings. | English and Japanese; everyone welcome. | Membership has no dues. Follow the meetings page and register when requested; check the individual venue. |
 | [Tokyo Python](https://www.tokyopython.com/) | An English-speaking Python community for developers and data scientists. | English. | Follow its Meetup/Discord links. The homepage's meeting announcement was outdated when checked; verify a newly dated event before planning a visit. |
+
+## If you speak Japanese
+
+For deeper technical conversations, start with the tool or language you use. These groups are useful for discussing code, sharing projects, and learning from other practitioners. You do not need to be a founder.
+
+Most linked discussions are in Japanese. English support is not guaranteed unless an organizer says otherwise.
+
+| Community | Technical focus | Tokyo connection / format | First step |
+| --- | --- | --- | --- |
+| **[vim-jp](https://vim-jp.org/)** | Vim, plugins, editor workflows, and development. | **Online, Japan-wide.** A route into the Vim community behind Tokyo editions of VimConf; not a physical Tokyo venue. | Read the code of conduct and use the [official Slack invitation](https://vim-jp.org/docs/chat.html). Anyone interested may join; quietly reading is welcome and an introduction is optional. |
+| **[VimConf](https://vimconf.org/)** | Talks for Vim users, plugin authors, and contributors. | **Ticketed conference.** The [2025 edition](https://vimconf.org/2025/ja/) was held at Akiba Plaza in Chiyoda. The official hub had no 2026 edition listed when checked. | Follow the next announcement; do not mistake last year's page for an upcoming event. The 2025 edition accepted Japanese or English talks with English slides; check future language arrangements. |
+| **[Asakusa.rb](https://asakusarb.esa.io/)** | Ruby hacking and discussion. | **Tokyo regional community; online and event-dependent.** A neighborhood name does not mean an in-person meeting in Asakusa. | Follow [How to Join](https://asakusarb.esa.io/posts/8), join esa, and comment on the relevant meetup post. Check whether that session uses Discord or a physical venue. |
+| **[Shibuya.rb](https://shibuyarb.connpass.com/)** | Ruby and related development topics. | **Tokyo meetups; venue varies.** Past listings include Shibuya and Osaki. No next event was confirmed in this review. | Follow the Connpass group and register when a new event appears. Use the event address, not the group name. |
+| **[golang.tokyo](https://golangtokyo.github.io/)** | Go talks, practical techniques, and hands-on learning. | **Tokyo technical meetup.** The organizer's listings include a 2026 in-person event in Minato. | Follow [Connpass](https://golangtokyo.connpass.com/) and choose the correct attendee slot. Check language, capacity, and office-entry instructions. |
+| **[Gotanda.rb](https://gotanda-rb.connpass.com/)** | Ruby study and conversations with other Ruby users. | **Gotanda-area community, Shinagawa.** Check each listing for its actual venue. | Register on Connpass. The group welcomes people who like Ruby; read any preparation notes before attending. |
+
+**A good first visit:** bring one small technical question or a project you can show. For a work session, bring a laptop. Follow the group's code of conduct, cancel your RSVP if plans change, and ask before recording or photographing people. Join to participate; check the rules before sharing promotional links.
 
 ## Startup hubs and coworking
 

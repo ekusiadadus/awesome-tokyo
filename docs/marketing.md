@@ -25,12 +25,22 @@ This ranking is an audience-fit judgment, not proven conversion data. For Hacker
 ## Structure built for newcomers
 
 1. Your first week in Tokyo.
-2. Meet developers and founders.
-3. Startup hubs and coworking.
-4. Cafes and places to work.
-5. Where to stay.
-6. Find your next event.
-7. Contribute and keep it current.
+2. Choose your neighborhood: Marunouchi/Yurakucho, Shibuya, or Toranomon/Shimbashi.
+3. Meet developers and founders.
+4. If you speak Japanese: specialist communities and how to join.
+5. Startup hubs and coworking.
+6. Cafes and places to work.
+7. Where to stay.
+8. Find your next event.
+9. Contribute and keep it current.
+
+## More useful ways to share
+
+- For a visitor staying near Tokyo Station: link directly to the Marunouchi/Yurakucho guide.
+- For a founder based in Shibuya: share the station, Dogenzaka/Tomigaya, and Shibuya Bridge options.
+- For a Japanese-speaking developer: share the technical-community section, starting with their language or tool.
+
+Groups such as vim-jp are communities to participate in, not assumed advertising channels. Their inclusion does not establish permission to promote this guide there.
 
 ## First four weeks
 
